@@ -1,0 +1,19 @@
+h1 {
+    color: red;
+}
+#submit-btn {
+     background-color: aqua;
+}
+#submit-reg {
+    background-color: rgb(20, 192, 49);
+}
+.main-form {
+    background-color: rgb(226, 162, 43);
+}
+#Finalsubmit-btn {
+    background-color: rgb(230, 13, 175);
+    font-style:oblique
+}
+#Register {
+    background-color:rgb(100, 177, 248)
+}
